@@ -1,0 +1,2 @@
+*linguist-vendored
+*.do linguist-vendored=false
